@@ -1,13 +1,13 @@
 //====================================================== Configuración ======================================================
 
 // ================= LIMITE DE MESAJES Y TIEMPO POR CHAT =====================
-let MAX_MESSAGES_PER_CHAT = 50; // <--- Cambia este valor para ajustar el límite
+let MAX_MESSAGES_PER_CHAT = 70; // <--- Cambia este valor para ajustar el límite
 const RESET_LIMIT_MINUTES = 30; // Tiempo en minutos para restablecer el límite
 // ===========================================================================
 
 // ======================== SISTEMA DE AVISOS ===============================
 const AVISO_ACTIVO = true; // <--- Cambia a true para mostrar el aviso
-const AVISO_TITULO = "¡DevCenter 4.5.1!"; // <--- Título del aviso
+const AVISO_TITULO = "¡DevCenter For Justin!"; // <--- Título del aviso
 const AVISO_DESCRIPCION =
     "🎉 Nuevas mejoras: IA más amigable y entusiasta, respuestas mejor estructuradas, Memoria Extendida guarda casi todo lo importante, y notificaciones eliminadas para una experiencia más limpia. ¡Disfruta DevCenter!"
 
