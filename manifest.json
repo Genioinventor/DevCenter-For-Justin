@@ -1,0 +1,16 @@
+{
+  "name": "DevCenter IA",
+  "short_name": "DevCenter",
+  "description": "Asistente de IA para desarrollo web",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f0f1e",
+  "theme_color": "#5865f2",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ]
+}
